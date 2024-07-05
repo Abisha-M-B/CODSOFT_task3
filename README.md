@@ -1,5 +1,5 @@
 # CODSOFT_task3
-## GUI Calculator
+## Calculator
   A simple GUI Calculator application built using Python. This application performs basic arithmetic operations and exponentiation, featuring a user-friendly interface with buttons for each operation and a textbox for input and output.
 
 ### Features
